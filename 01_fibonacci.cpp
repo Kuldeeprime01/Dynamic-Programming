@@ -8,7 +8,7 @@ using namespace std;
 /**
  *     Top Down approach using vector [1D] DP
  *     TC : o(n)
- *     SC : O(n) + callstack [reccursion]
+ *     SC : O(n) + callstack [recursion]
  */
 
 int f(int n, vector<int> dp){
