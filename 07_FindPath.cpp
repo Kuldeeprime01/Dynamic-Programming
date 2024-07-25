@@ -52,7 +52,7 @@ int f2(int m ,int n){
 }
 
 /**
- * Bottom up approach using 2D DP [SPACE OPTIMIZATION]
+ * Bottom up approach [SPACE OPTIMIZATION]
  * TC : O(M*N)
  * SC : O(N)
  */
